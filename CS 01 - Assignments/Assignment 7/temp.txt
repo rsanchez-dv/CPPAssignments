@@ -1,0 +1,26 @@
+Bad Data, Joe
+22223333 *
+Adamson Jr., Jerry
+99887766 A 5 B 4 a 3 b 4 *
+Bad Data1, Joe
+99999999 A 0 *
+Blackston Jr., Jerry
+99887666 A 5 K 0 0 0 4 0 0 0 D 3 A 4 *
+Brown Jones, Nancy
+22345678 a 5 B 4 a 3 B 4 *
+Brownson, Adam
+22345688 a 3 C 4 b 2 C 4 *
+Johnson, Jerry
+99877766 A 5 B 4 B 3 C 4 *
+Jonsen, Lori
+22445678 a 4 C 4 D 3 B 4 *
+Partison, John
+12346678 A 2 b 3 h 0 0 0 5 0 0 0 x 0 0 0 4 0 0 0 C 4 *
+Shore, John
+12345668 A 3 b 4 b 2 b 4 C 4 *
+Smith, Jane
+12345678 *
+Bad Data2, Joe
+88887777 X 0 0 0 4 0 0 0 *
+Smith, John
+12345678 A 3 b 4 b 2 x 0 0 0 4 0 0 0 C 4 *
