@@ -1,0 +1,43 @@
+Gone With The Wind
+1939   1218328752
+MGM , Clark Gable , Vivien Leigh
+Titanic
+1997    779086619
+Paramount , Leonardo DiCaprio , Kate Winslet
+Star Wars
+1977   1074061157
+Fox , Mark Hamill , Harrison Ford , Carrie Fisher
+Bambi
+1942    424566310
+Disney
+Goldfinger
+1964    399789000
+United Artists, Sean Connery
+Return of the King, The
+2003    361940947
+New Line , Viggo Mortensen , Elijah Wood , Ian McKellan
+Goldmember
+2002   213307889
+New Line , Mike Myers
+Gigli
+2003    6087542
+Sony , Jennifer Lopez , Ben Affleck
+Elf
+2003   173398518
+New Line, Will Ferrell
+Sound of Music, The
+1965    858764718
+Fox , Julie Andrews , Christopher Plummer
+Snow White and the Seven Dwarves
+1937   657270000
+Disney
+Grease
+1978    463838169
+Paramount , John Travolta , Olivia Newton-John
+Jaws
+1975    772315273
+Universal , Roy Scheider , Richard Dreyfuss , Robert Shaw
+House of Wax
+1953    304707447
+Warner Brothers , Vincent Price
+***
