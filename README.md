@@ -5,9 +5,10 @@ A collection of C++ assignments from El Camino College Computer Science Departme
 ## Get Started
 
 Each folder represents a class taken. 
-CS 01 - Problem Solving and Program Design using C++
-CS 02 - Introduction to Data Structures
-CS 30 - Advanced Programming in C++
+
+ - CS 01 - Problem Solving and Program Design using C++
+ - CS 02 - Introduction to Data Structures
+ - CS 30 - Advanced Programming in C++
 
 ## Release History
 These assignments where done around 2012-2014.
