@@ -11,11 +11,11 @@ Each folder represents a class taken.
  - CS 30 - Advanced Programming in C++
 
 ## Release History
-These assignments where done around 2012-2014.
+These assignments where done between Spring 2012, Fall 2012,and Spring 2013.
 
 ## Built With
 
-* Visual Studio 2010
+* Visual Studio 2010 and 2012
 
 ## Authors
 * **Roberto Sanchez** - *Initial work* - [Zyxel-1](https://github.com/Zyxel-1)
